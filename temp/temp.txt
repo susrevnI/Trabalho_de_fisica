@@ -1,6 +1,0 @@
-# Trabalho de Física
-
-## Criação de uma Web App para calculo de sistemas mecânicos com polias e blocos.
-
-Protótipo -> Uso de HTML e CSS para apresentação grafica, e javascript para captura e calculo de dados.
-
